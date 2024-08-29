@@ -6,6 +6,21 @@
     <description>Recent content in Tags on Just In Time</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://khagankhan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Llvm</title>
+      <link>https://khagankhan.github.io/tags/llvm/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://khagankhan.github.io/tags/llvm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>https://khagankhan.github.io/tags/optimization/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://khagankhan.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
