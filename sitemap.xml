@@ -2,17 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://khagankhan.github.io/categories/</loc>
+    <lastmod>2024-08-27T20:42:16-06:00</lastmod>
+  </url><url>
+    <loc>https://khagankhan.github.io/categories/compilers/</loc>
+    <lastmod>2024-08-27T20:42:16-06:00</lastmod>
+  </url><url>
+    <loc>https://khagankhan.github.io/posts/missed-opt/</loc>
+    <lastmod>2024-08-27T20:42:16-06:00</lastmod>
+  </url><url>
     <loc>https://khagankhan.github.io/</loc>
+    <lastmod>2024-08-27T20:42:16-06:00</lastmod>
+  </url><url>
+    <loc>https://khagankhan.github.io/tags/llvm/</loc>
+    <lastmod>2024-08-27T20:42:16-06:00</lastmod>
+  </url><url>
+    <loc>https://khagankhan.github.io/tags/optimization/</loc>
     <lastmod>2024-08-27T20:42:16-06:00</lastmod>
   </url><url>
     <loc>https://khagankhan.github.io/posts/</loc>
     <lastmod>2024-08-27T20:42:16-06:00</lastmod>
   </url><url>
-    <loc>https://khagankhan.github.io/archives/</loc>
-  </url><url>
-    <loc>https://khagankhan.github.io/categories/</loc>
-  </url><url>
     <loc>https://khagankhan.github.io/tags/</loc>
+    <lastmod>2024-08-27T20:42:16-06:00</lastmod>
+  </url><url>
+    <loc>https://khagankhan.github.io/archives/</loc>
   </url><url>
     <loc>https://khagankhan.github.io/about/</loc>
   </url>
